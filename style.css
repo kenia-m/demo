@@ -1,3 +1,28 @@
-body {
-    font: 16px Arial, sans-serif;
+/*  this is a comment :3 */
+.body p {
+  color: rgb(100, 30, 20);
+  size: 16px;
+  font-family: serif;
+  text-align: center;
+  background-color: rgb(24, 23, 23);
+}
+
+.songimg {
+  width: 50%;
+}
+
+/* some styles 
+background-color: red;
+padding: 1%;
+margin: 2;
+
+ */
+
+.header {
+  font-weight: bold;
+  size: 200px;
+}
+.subheader {
+}
+.lyrics {
 }
