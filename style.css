@@ -1,14 +1,16 @@
 /*  this is a comment :3 */
-.body p {
-  color: rgb(100, 30, 20);
+body p {
+  color: rgb(244, 171, 192);
   size: 16px;
-  font-family: serif;
+  font-family: bitcount-grid-double;
   text-align: center;
   background-color: rgb(24, 23, 23);
+  padding: 1px;
 }
 
-.songimg {
-  width: 50%;
+songimg {
+  max-width: 100%;
+  height: auto;
 }
 
 /* some styles 
@@ -18,9 +20,10 @@ margin: 2;
 
  */
 
-.header {
+header {
   font-weight: bold;
   size: 200px;
+  text-align: center;
 }
 .subheader {
 }
